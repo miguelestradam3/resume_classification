@@ -145,23 +145,9 @@ These metrics measure how effectively the model classifies resumes into their re
 
 ## 🚀 Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/yourusername/resume-selector-naive-bayes.git
-
-cd resume-selector-naive-bayes
-```
-
----
-
 ### Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-Or install them manually:
+Install them manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk gensim wordcloud imbalanced-learn jupyterthemes
